@@ -1,0 +1,57 @@
+
+/* ../ sube dos carpetas hasta la carpeta img. Primero la razi: "BlogFoundation y luego hacia la img*/ 
+body {
+background-image: url("../img/Cocina-pixa.jpg");
+background-attachment:fixed; /*lo que pego en el fondo se queda fijo*/ 
+}
+
+.container {
+background-color:azure; 
+margin: 1% 15% 15% 15%;
+opacity: 0.9;
+}
+
+.margin2 {
+margin-left:3.2%;
+}
+
+.redondo {
+border-radius: 25px 25px 25px 25px;
+background-color:beige;
+}
+
+.redondo2 {
+border-radius: 25px 25px 25px 25px;
+background-color:beige;
+}
+
+.redondo3 {
+border-radius: 50px 50px 50px 50px;
+font-size:11px;
+margin-top:3px        
+}
+
+
+.raya{
+min-height:1px;
+background-color:black;
+}
+
+.im{
+min-width:30%;
+background-color:beige;
+}
+
+.img{
+min-width:50px;
+}
+
+.img2{
+width:100%;
+}
+
+.comentarios{
+background-color:floralwhite;
+color:cadetblue;
+}
+

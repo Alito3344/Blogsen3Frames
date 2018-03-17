@@ -1,0 +1,69 @@
+/* */ 
+
+
+.container{
+margin-top:5px;
+}
+
+.container2{
+padding:18px;
+background-image: url(../img/polynesia-Pixa.jpg);
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+
+.marg{
+margin-top:10px;
+margin-bottom:7px;
+}
+
+.marg2{
+margin-bottom:8px;
+}
+.marg3{
+margin-top:-10px;
+}
+
+.marg4{
+margin-left:50px;
+}
+
+h5{
+margin-left:100px;
+margin-top:-55px
+}
+
+.im{
+width:100%;
+}
+
+.im2{
+width:307px;
+}
+
+.im3{
+width:50px;
+}
+
+.im4{
+width:200px;
+margin-left:75px;
+border-radius: 200px 200px 200px 200px; 
+}
+
+.im5{
+width:400px;
+}
+
+.im6{
+width:200px;
+margin-left:80px;
+}
+
+p,h5 {
+color:white;
+ text-shadow:2px 2px 2px black;
+    
+}
+
+
